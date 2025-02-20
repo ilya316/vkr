@@ -1,0 +1,855 @@
+{
+    "predecessors": [
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 1,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 2,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 3,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 4,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 5,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 6,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 7,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 8,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 9,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 10,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 11,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 12,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 5,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 6,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 8,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 2,
+        "compatibility_quality": "хорошее"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 7,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 3,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 10,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 9,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 1,
+        "compatibility_quality": "удовлетворительное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 4,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 13,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 12,
+        "compatibility_quality": "нежелательное"
+      },
+      {
+        "culture_id": 13,
+        "predecessor_culture_id": 11,
+        "compatibility_quality": "нежелательное"
+      }
+    ]
+  }
+  

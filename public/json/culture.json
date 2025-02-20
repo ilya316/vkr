@@ -1,0 +1,57 @@
+{
+    "crops": [
+      {
+        "culture_id": 1,
+        "culture_name": "Бобовые"
+      },
+      {
+        "culture_id": 2,
+        "culture_name": "Капуста"
+      },
+      {
+        "culture_id": 3,
+        "culture_name": "Свекла"
+      },
+      {
+        "culture_id": 4,
+        "culture_name": "Картофель"
+      },
+      {
+        "culture_id": 5,
+        "culture_name": "Лук"
+      },
+      {
+        "culture_id": 6,
+        "culture_name": "Чеснок"
+      },
+      {
+        "culture_id": 7,
+        "culture_name": "Морковь"
+      },
+      {
+        "culture_id": 8,
+        "culture_name": "Огурец"
+      },
+      {
+        "culture_id": 9,
+        "culture_name": "Тыква"
+      },
+      {
+        "culture_id": 10,
+        "culture_name": "Кабачок"
+      },
+      {
+        "culture_id": 11,
+        "culture_name": "Перец"
+      },
+      {
+        "culture_id": 12,
+        "culture_name": "Баклажан"
+      },
+      {
+        "culture_id": 13,
+        "culture_name": "Томат"
+      }
+    ]
+  }
+  
