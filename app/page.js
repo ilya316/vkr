@@ -433,6 +433,11 @@ export default function Home() {
     },
     {
       "culture_id": 7,
+      "predecessor_culture_id": 5,
+      "compatibility_quality": "удовлетворительное"
+    },
+    {
+      "culture_id": 7,
       "predecessor_culture_id": 6,
       "compatibility_quality": "удовлетворительное"
     },
