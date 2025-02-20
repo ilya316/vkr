@@ -913,6 +913,28 @@ export default function Home() {
   ]);
   const [matrix, setMatrix] = useState({});
 
+  const [selectedCrop1, setSelectedCrop1] = useState(null);
+  const [selectedCrop2, setSelectedCrop2] = useState(null);
+  const [compatibility, setCompatibility] = useState("");
+
+  const findCompatibility = (crop1, crop2) => {
+    if (!crop1 || !crop2) return;
+
+    const result = compatibilityData.find(
+      (item) =>
+        item.culture_id === crop1.culture_id &&
+        item.predecessor_culture_id === crop2.culture_id
+    );
+
+    setCompatibility(result ? result.compatibility_quality : "неизвестно");
+  };
+
+  useEffect(() => {
+    if (selectedCrop1 && selectedCrop2) {
+      findCompatibility(selectedCrop1, selectedCrop2);
+    }
+  }, [selectedCrop1, selectedCrop2]);
+
   // useEffect(() => {
   //   const fetchData = async () => {
   //     try {
@@ -967,7 +989,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>Матрица совместимости культур</h1>
+      <h1>Матрица севооборота культур</h1>
       {crops.length > 0 && compatibilityData.length > 0 ? (
         <table border="1" cellPadding="5" cellSpacing="0">
           <thead>
@@ -992,6 +1014,77 @@ export default function Home() {
       ) : (
         <p>Загрузка данных...</p>
       )}
+       <div>
+      <h2>Цветовая шкала севооборота</h2>
+      <table border="1" cellPadding="10" cellSpacing="0">
+        <tbody>
+          <tr>
+            <td style={{ backgroundColor: "red", color: "white", textAlign: "center" }}>
+              Нежелательно
+            </td>
+            <td style={{ backgroundColor: "orange", color: "black", textAlign: "center" }}>
+              Удовлетворительно
+            </td>
+            <td style={{ backgroundColor: "green", color: "white", textAlign: "center" }}>
+              Хорошо
+            </td>
+          </tr>
+          <tr>
+            
+          </tr>
+        </tbody>
+      </table>
     </div>
+
+<div>
+      <h1>Проверка севооборота культур</h1>
+
+      <div>
+        <label>Выберите первую культуру:</label>
+        <input
+          type="text"
+          list="cropList1"
+          placeholder="Начните вводить..."
+          onChange={(e) => {
+            const crop = crops.find((c) => c.culture_name === e.target.value);
+            setSelectedCrop1(crop || null);
+          }}
+        />
+        <datalist id="cropList1">
+          {crops.map((crop) => (
+            <option key={crop.culture_id} value={crop.culture_name} />
+          ))}
+        </datalist>
+      </div>
+
+      <div>
+        <label>Выберите вторую культуру:</label>
+        <input
+          type="text"
+          list="cropList2"
+          placeholder="Начните вводить..."
+          onChange={(e) => {
+            const crop = crops.find((c) => c.culture_name === e.target.value);
+            setSelectedCrop2(crop || null);
+          }}
+        />
+        <datalist id="cropList2">
+          {crops.map((crop) => (
+            <option key={crop.culture_id} value={crop.culture_name} />
+          ))}
+        </datalist>
+      </div>
+
+      <div>
+        <h3>Совместимость севооборота:</h3>
+        <p>
+          {selectedCrop1?.culture_name} и {selectedCrop2?.culture_name}:{" "}
+          <strong>{compatibility}</strong>
+        </p>
+      </div>
+    </div>
+    </div>
+
+    
   );
 }
